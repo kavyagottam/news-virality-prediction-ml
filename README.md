@@ -39,17 +39,20 @@ F1-Score
 Compared different models to determine the best-performing approach
 Observed the impact of various features on virality prediction
 Achieved improved performance over the baseline model
+
 💻 Tech Stack
 Python
 Pandas, NumPy
 Scikit-learn
 Matplotlib, Seaborn
 TensorFlow / Keras (if applicable)
+
 ▶️ How to Run
 Clone the repository
 Open the notebook (.ipynb) in Jupyter Notebook or Kaggle
 Install required libraries
 Run all cells to reproduce results
+
 📌 Conclusion
 
 This project demonstrates how machine learning can effectively predict news article virality and highlights the importance of data-driven decision-making in digital media.
